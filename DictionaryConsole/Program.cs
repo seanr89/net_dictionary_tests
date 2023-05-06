@@ -4,7 +4,7 @@ using Spectre.Console;
 
 Console.Clear();
 AnsiConsole.Write(
-    new FigletText("Rabbit Sender Auto")
+    new FigletText("Dictionary Tester")
         .LeftJustified()
         .Color(Color.Red));
 
