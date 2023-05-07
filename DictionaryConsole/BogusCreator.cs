@@ -1,4 +1,3 @@
-
 using Bogus;
 
 public static class BogusCreator{
